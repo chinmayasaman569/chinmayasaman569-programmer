@@ -1,0 +1,22 @@
+(" s y s t e m ")
+
+
+uname                             =>   Displays linux system information
+uname -r                          =>   Displays kernel release informtion
+uptime                            =>   Displays how long the system has been running including load average 
+hostname                          =>   Shows the system hostname
+hostname -i                       =>   Displays the system's ip address
+last reboot                       =>   Shows the system reboot history 
+date                              =>   Displays the current system date and time
+timedatectl                       =>   Query and change the sysytem the clock 
+cal                               =>   Displays the current calender month and day
+w                                 =>   Displays currently logged in users in the system
+whoami                            =>   Displays who you are logged in as
+finger username                   =>   Displays information about the user   ("please read : you have to install finger then you can then the command give you 
+
+
+(" H a r d w a r e ")
+
+dmesg                             =>   Displays bootup messages
+cat/proc/puinfo                   =>   Displays more information about CPU e.g. Model,Model Name,Cores,vendor id 
+cat/proc/meminfo                  =>   Displays more information about hardware memory e.g. Total and free memory
