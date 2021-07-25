@@ -1,0 +1,19 @@
+welcome !
+in this file you can see some linux commands 
+thankyou !
+           {H   A  R  D  W  A  R  E    C  O  M  M  A  N  D  S}
+|________________________________________________________________________________________________________________________________|
+| 1.dmesg                        =>   Displays bootup messages                                                                     |                                                                                                                                     |
+| 2.cat/proc/puinfo              =>   Displays More Information About CPU e.g. Model ,Model name,Cores,Vendor Id                   |
+| 3.cat/proc/meminfo             =>   Displays More Information About Hardware Memory e.g. Total and Free Memory                   |                      
+| 4.lshw                         =>   Displays Information About system Hardware configuration                                     |
+| 5.lsblk                        =>   Displays Block Devices Related Information                                                   |
+| 6.free -m                      =>   Displays Free and Used Memory (-m Flag Indicates Memory in MB                                |
+| 7.lspci -tv                    =>   Displays PCI Devices In A Tree-Like Diagram                                                  |
+| 8.lsusb -tv                    =>   Displays USB Devices In A Tree Like Diagram                                                  |
+| 9.demidecode                   =>   Displays Hardware Information From The BIOS                                                  |
+| 10.hdparm -i /dev/xda          =>   Displays Information About Disk Data                                                         |
+| 11.hdparm -tT                                                                                                                    |
+|  /dev/xda <:code>              =>   Conducts A Read Speed Test On Device XDA                                                     |
+| 12.badblocks -s /dev/xda       =>   Tests  For Unreadable Blocks On Disk                                                         |
+|__________________________________________________________________________________________________________________________________|
