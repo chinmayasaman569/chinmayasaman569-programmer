@@ -1,8 +1,15 @@
 welcome !
 in this file you can see some linux commands 
-thankyou !
-           {H   A  R  D  W  A  R  E    C  O  M  M  A  N  D  S}
-|________________________________________________________________________________________________________________________________|
+thankyou !                                                               ____   _     _  
+                           ___| |__ (_)_ __  _ __ ___   __ _ _   _  __ _| ___| / /_ / _ \ 
+                          / __| '_ \| | '_ \| '_ ` _ \ / _` | | | |/ _` |___ \| '_ \ (_) |
+                         | (__| | | | | | | | | | | | | (_| | |_| | (_| |___) | (_) \__, |
+                          \___|_| |_|_|_| |_|_| |_| |_|\__,_|\__, |\__,_|____/ \___/  /_/ 
+                                                             |___/                        
+                   
+
+                                 {H   A  R  D  W  A  R  E    C  O  M  M  A  N  D  S}
+|__________________________________________________________________________________________________________________________________|
 | 1.dmesg                        =>   Displays bootup messages                                                                     |                                                                                                                                     |
 | 2.cat/proc/puinfo              =>   Displays More Information About CPU e.g. Model ,Model name,Cores,Vendor Id                   |
 | 3.cat/proc/meminfo             =>   Displays More Information About Hardware Memory e.g. Total and Free Memory                   |                      
